@@ -1,4 +1,4 @@
-# CS475-A0
+# CS475-A0: OpenMP Test Benchmark
 CS 475 Introduction to Parallel Programming
 
 ## Description
